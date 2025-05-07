@@ -102,7 +102,7 @@ export const Navigation = (props) => {
 							<div className="col-lg-7">
 								<div className="text">
 									<h1>Where <span>Expertise</span> Meets <span>Efficiency!</span></h1>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed nisl pellentesque, faucibus libero eu, gravida quam. </p>
+									<p>combining deep knowledge with streamlined processes to deliver high-quality results quickly and reliably.. </p>
 									<div className="button">
 										
 										<a href="#" className="btn primary">Learn More</a>
@@ -124,7 +124,7 @@ export const Navigation = (props) => {
 							<div className="col-lg-7">
 								<div className="text">
 									<h1>International <span>Integrity, </span> Domestic <span>Precision!</span></h1>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed nisl pellentesque, faucibus libero eu, gravida quam. </p>
+									<p> Committed to ethical global partnerships while maintaining meticulous attention to quality and accuracy at home. </p>
 									<div className="button">
 										
 										<a href="#" className="btn primary">Learn More</a>
@@ -146,7 +146,7 @@ export const Navigation = (props) => {
 							<div className="col-lg-7">
 								<div className="text">
 									<h1>Think <span>Globally</span> Import <span>Extensively!</span></h1>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed nisl pellentesque, faucibus libero eu, gravida quam. </p>
+									<p>Adopting a global mindset to strategically source a wide range of products across international markets. </p>
 									<div className="button">
 										
 										<a href="#" className="btn primary">Learn More</a>

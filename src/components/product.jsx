@@ -9,7 +9,7 @@ export const Product = (props) => {
 				<div className="row">
 					<div className="col-lg-12">
 						<div className="section-title">
-							<h2>product</h2>
+							<h2>Our Products</h2>
               <div className="container">
               <div className="product-slider">
                   <div className="product-list">
