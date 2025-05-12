@@ -16,7 +16,7 @@ export const Footer = (props) => {
       
           <ul className="social-media-list">
               <li><a href="facebook.com"><i className="fab fa-facebook-f"></i></a></li>
-              <li><a href="#"><i className="fab fa-twitter"></i></a></li>
+              <li><a href="#"><i className="fab fa-x"></i></a></li>
               <li><a href="#"><i className="fab fa-instagram"></i></a></li>
               <li><a href="#"><i className="fab fa-linkedin-in"></i></a></li>
           </ul>
@@ -28,7 +28,7 @@ export const Footer = (props) => {
           <h2>Open Hours</h2>
           <p>We are open on.</p>
           <ul className="time-sidual">
-            <li className="day">Monday - Fridayp <span>8.00-188.30</span></li>
+            <li className="day">Monday - Friday <span>8.00-188.30</span></li>
             <li className="day">Saturday <span>8.00-18.30</span></li>
           </ul>
         </div>

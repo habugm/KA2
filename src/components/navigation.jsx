@@ -41,7 +41,7 @@ export const Navigation = (props) => {
 
               <ul className="top-contact">
                 <li><i className="fa fa-phone"></i>+251911461752</li>
-                <li><i className="fa fa-envelope"></i><a href="mailto:support@yourmail.com">KA2 Import Export</a></li>
+                <li><i className="fa fa-envelope"></i><a href="mailto:support@yourmail.com">KA2 General Import & Export</a></li>
               </ul>
 
             </div>
