@@ -63,7 +63,7 @@ export const Navigation = (props) => {
               <span className="icon-bar"></span>
             </button>
             <a className="navbar-brand" href="#home">
-              <img src="img/logo.png" alt="logo" className="logo" />
+              <img src="img/logo2.png" alt="logo" className="logo" />
             </a>
           </div>
 
