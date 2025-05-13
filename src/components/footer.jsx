@@ -11,7 +11,7 @@ export const Footer = (props) => {
       <div className="col-lg-6 col-md-6 col-12">
         <div className="single-footer">
           <h2>About Us</h2>
-          <p>At KA2 Import Export, we specialize in sourcing and importing high-quality products from 
+          <p>At KA2 General Import & Export, we specialize in sourcing and importing high-quality products from 
             around the globe to meet the diverse needs of our clients.</p>
       
           <ul className="social-media-list">

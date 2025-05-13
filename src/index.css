@@ -32,20 +32,23 @@ code {
 }
 
 .navcustome {
-  background-color: rgba(237, 237, 245, 0.8) !important; /* Blue with 60% opacity */
+  background-color: rgba(68, 68, 87, 0.8) !important; /* Blue with 60% opacity */
   transition: background-color 0.3s ease;
   color: rgb(0, 0, 0) !important;
   font-weight: bold;
 }
 .logo{
   width: 5rem;
-  height: 5rem;
+  
  align-items: center !important;
   justify-content: center !important;
-  display: flex !important;
+  
   margin-left: 1rem !important;
   margin-top: 1rem !important;
   margin-bottom: 3rem !important;
+  max-width: 100%;
+  height: auto;
+  display: block
 }
 .menuholder{
   padding: 1rem;
