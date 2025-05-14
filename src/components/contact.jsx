@@ -7,8 +7,11 @@ export const Contact = (props) => {
 
   return (
     <div id="contact" className="contact">
+      <h2 style={{ textAlign: 'center' }}>Contact US</h2>
+      
         <section className="contact newsletter section">
           <div className="container">
+            
             <div className="row container">
               <div className="col-lg-6  col-12">
             

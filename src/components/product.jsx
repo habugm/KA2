@@ -44,6 +44,20 @@ export const Product = (props) => {
                       </div>
                       <h5 className="product-name">Level (Spirit level)</h5>
                     </div>
+
+                    <div className="product-card">
+                      <div className="image-container">
+                        <img src="img/steel-sheet.jpg" alt="Product Name" className="product-image" />
+                      </div>
+                      <h5 className="product-name">Steel Sheet</h5>
+                    </div>
+
+                    <div className="product-card">
+                      <div className="image-container">
+                        <img src="img/electrodes.jpg" alt="Product Name" className="product-image" />
+                      </div>
+                      <h5 className="product-name">Electrodes</h5>
+                    </div>
                   </div>
                 </div>
               </div>
